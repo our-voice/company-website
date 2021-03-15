@@ -11,5 +11,5 @@ A mobile application aiming to connect Gen Z with resources to help them become 
 
 ## Team
 * Emily Pattison [(epattiso21)](https://github.com/epattiso21) - CEO
-* Anandita Jha [(ana-jha-19)](https://github.com/anajha1) - COO
+* Anandita Jha [(anajha1)](https://github.com/anajha1) - COO
 * Peyton Wang [(peyton-a-wang)](https://github.com/peyton-a-wang) - VP of Development
