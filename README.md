@@ -1,5 +1,5 @@
 # Our Voice
-A mobile application aiming to build mental and physical resilence in young activists looking for more opportunities and accurate resources.
+A mobile application aiming to connect Gen Z with resources to help them become activists and make a difference in the issues that they care about!
 
 ## About
 * [Official Website](https://www.ovtakeaction.com/)
